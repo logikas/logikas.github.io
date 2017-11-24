@@ -1,4 +1,4 @@
-## Welcome to Logikas
+## Welcome to Logikas Community.
 
 You can use the [editor on GitHub](https://github.com/logikas/logikas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
